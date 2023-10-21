@@ -160,3 +160,9 @@ cython_debug/
 #.idea/
 
 test.ipynb
+
+#MongoDB Credential
+.env
+
+#Whatever new things learned from this project mentioned those points in this file
+Learning and Development.txt
